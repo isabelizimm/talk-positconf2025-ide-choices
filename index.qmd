@@ -4,26 +4,13 @@ title: "Making IDE-al choices: the right tool for me"
 
 # intro
 
-# how you code 
-
-## polyglot support
-- Support for multiple programming languages in a single workspace
-- Positron: Excellent R and Python integration, limited other languages
-- VS Code: Industry-leading multi-language support
-- JupyterLab: Strong Python/R, growing support for other kernels
+# how you work
 
 ## experimentation and iteration
 - Positron: REPL-first approach, great for iterative analysis
 - VS Code: Interactive Python window, notebook integration
 - JupyterLab: Purpose-built for experimental workflows
 
-## notebooks
-- Positron: Native notebook support with enhanced features
-- VS Code: Solid notebook support with good rendering
-- JupyterLab: The standard for notebook development
-
-
-# how you work
 ## collaboration
 - Positron: Git integration with focus on data science workflows
 - VS Code: Industry-standard Git integration with excellent UI
